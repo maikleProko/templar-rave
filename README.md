@@ -28,4 +28,4 @@ https://youtu.be/4tx9bAmy9bA
 * [Discord](https://discord.gg/uYHrRyDd)
 
 # Особые благодарности
-* Blueburn за предоставление BBMOD
+* Blueburn'у за предоставление BBMOD
