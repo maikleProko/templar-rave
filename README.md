@@ -3,6 +3,8 @@
 
 [![Discord](https://img.shields.io/discord/865908870299910154?color=brightgreen&label=Discord)](https://discord.gg/uYHrRyDd)
 
+![logo](datafiles/logo.png)
+
 # Содержание
 * [Описание](#описание)
 * [Видео](#видео)
