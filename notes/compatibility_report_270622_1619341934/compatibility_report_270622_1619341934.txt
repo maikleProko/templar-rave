@@ -1,0 +1,10 @@
+Missing audiogroup for sound: 'click_mn_snd' - setting to default audio group
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

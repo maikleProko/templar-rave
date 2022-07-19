@@ -1,0 +1,44 @@
+Font Test_font has been converted to font family Constantine (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\Test_font\Test_font.gms1.png
+Font Grand_font has been converted to font family Harrington (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\Grand_font\Grand_font.gms1.png
+!!! Font mini_text font family Constantine is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\mini_text\mini_text.gms1.png
+Font GUI_font has been converted to font family Constantine (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\GUI_font\GUI_font.gms1.png
+Font GUI_font_items has been converted to font family Constantine (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\GUI_font_items\GUI_font_items.gms1.png
+Font GUI_font_purchase has been converted to font family Constantine (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\GUI_font_purchase\GUI_font_purchase.gms1.png
+Font GUI_font_digits has been converted to font family Constantine (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\GUI_font_digits\GUI_font_digits.gms1.png
+!!! Font mini_mini_text font family Constantine is installed but couldn't match style - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\mini_mini_text\mini_mini_text.gms1.png
+Missing audiogroup for sound: 'hero_at1_snd' - setting to default audio group
+Missing audiogroup for sound: 'hero_at2_snd' - setting to default audio group
+Missing audiogroup for sound: 'hero_at3_snd' - setting to default audio group
+Missing audiogroup for sound: 'sk1_snd' - setting to default audio group
+Missing audiogroup for sound: 'sk2_snd' - setting to default audio group
+Missing audiogroup for sound: 'tr1_snd' - setting to default audio group
+Missing audiogroup for sound: 'tr2_snd' - setting to default audio group
+Missing audiogroup for sound: 'gol1_snd' - setting to default audio group
+Missing audiogroup for sound: 'gol2_snd' - setting to default audio group
+Missing audiogroup for sound: 'dem1_snd' - setting to default audio group
+Missing audiogroup for sound: 'dem2_snd' - setting to default audio group
+Missing audiogroup for sound: 'nig1_snd' - setting to default audio group
+Missing audiogroup for sound: 'expl_snd' - setting to default audio group
+Missing audiogroup for sound: 'give_snd' - setting to default audio group
+Missing audiogroup for sound: 'take_snd' - setting to default audio group
+Missing audiogroup for sound: 'heal_snd' - setting to default audio group
+Missing audiogroup for sound: 'click_snd' - setting to default audio group
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
