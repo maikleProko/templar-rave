@@ -11,10 +11,12 @@
 
 # Описание
 
+Данная игра представляет из-за аркаду с элементами кликера и рпг. В данный момент разрабатывается одним человеком. Ресурсы, такие как модели или текстуры используются согласно лицензии CC-BY. 
 ![Day](screenshots/Day.png)
 ![Night](screenshots/Night.png)
 # Видео
-https://studio.youtube.com/video/4tx9bAmy9bA/edit
+
+https://youtu.be/4tx9bAmy9bA
 
 # Ссылки
 * [Discord](https://discord.gg/uYHrRyDd)
