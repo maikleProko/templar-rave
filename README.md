@@ -1,7 +1,7 @@
 # Templar Rave
 > Разрабатывается на GMS 2.3 с использованием BBMOD.
 
-[![Discord](https://img.shields.io/discord/865908870299910154?label=Discord)](https://discord.gg/uYHrRyDd)
+[![Discord](https://img.shields.io/discord/865908870299910154?color=brightgreen&label=online)](https://discord.gg/uYHrRyDd)
 
 # Содержание
 * [Описание](#описание)
