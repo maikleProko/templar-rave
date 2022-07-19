@@ -18,6 +18,8 @@
 
 ![screen000](screens/screen000.png)
 ![screen001](screens/screen001.png)
+![screen002](screens/screen002.png)
+
 # Видео
 
 https://youtu.be/4tx9bAmy9bA
